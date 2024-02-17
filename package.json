@@ -12,7 +12,7 @@
     "eject": "react-scripts eject"
   },
   "repository": {
-	"type": "git",  
+    "type": "git",
     "url": "https://github.com/Nowheres2go/comp2156.git"
   },
   "keywords": [],
@@ -28,7 +28,7 @@
     "yarn": "^1.22.21"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.16.7" 
+    "@babel/plugin-proposal-private-property-in-object": "^7.16.7"
   },
   "eslintConfig": {
     "extends": "react-app"

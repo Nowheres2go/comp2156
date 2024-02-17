@@ -11,6 +11,10 @@
     "test": "echo \"Warning: No Tests created yet.\"",
     "eject": "react-scripts eject"
   },
+  "repository": {
+	"type": "git",  
+    "url": "https://github.com/Nowheres2go/comp2156.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
